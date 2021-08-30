@@ -1,2 +1,2 @@
-# L-gica_de_Programa-o--Proa
+# Logica_de_Programacao--Proa
 Códigos de Lógica de Programação 
